@@ -72,3 +72,14 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# And makin sure...
+**/.vs/*
+**/Android_ASTC/*
+**/Binaries/*
+**/Build/*
+**/DerivedDataCache/*
+**/Intermediate/*
+**/Saved/*
+**/Windows/*
+**/WindowsNoEditor/*
